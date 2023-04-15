@@ -1,0 +1,14 @@
+{
+    "senha1": {
+        "Usuario": "João",
+        "senha": 30
+    },
+    "senha2": {
+        "Usuario": "Maria",
+        "senha": 25
+    },
+    "senha3": {
+        "Usuario": "Pedro",
+        "senha": 40
+    }
+}
